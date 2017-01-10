@@ -26,3 +26,5 @@ Sarah | Smalley | Vice President
 This is **bold**
 
 This is *italic*
+
+This is a Link: (Markdown Tutorial)[https://www.youtube.com/watch?v=6A5EpqqDOdk] 12:00 min YouTube Tutorial
