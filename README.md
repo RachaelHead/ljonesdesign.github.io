@@ -27,4 +27,4 @@ This is **bold**
 
 This is *italic*
 
-This is a Link: (Markdown Tutorial)[https://www.youtube.com/watch?v=6A5EpqqDOdk] 12:00 min YouTube Tutorial
+This is a Link: [Markdown Tutorial](https://www.youtube.com/watch?v=6A5EpqqDOdk "Markdown Tutorial") 12:00 min YouTube Tutorial
